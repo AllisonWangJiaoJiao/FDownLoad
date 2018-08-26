@@ -1,15 +1,5 @@
 # FDownLoad
 FDownLoad断点下载
-Installation
-
-##### CocoaPods
-
-> Add pod 'YYModel' to your Podfile.
-> 
-> Run pod install or pod update.
-> 
-> import "FDownLoaderManager.h"
-
 
 ##### Usage
 
